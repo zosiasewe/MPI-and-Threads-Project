@@ -1,4 +1,7 @@
-﻿#include <iostream>
+// Done by Zofia Seweryńska
+// 05.2025, Poland
+
+#include <iostream>
 #include <array>
 #include <queue>
 #include <thread>
